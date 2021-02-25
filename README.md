@@ -1,2 +1,2 @@
-# SAA
-Sistemas Administrativo de Agendas
+# SVC
+“SVC” Sistema de Ventas y Compras
